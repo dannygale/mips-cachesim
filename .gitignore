@@ -1,0 +1,7 @@
+cachesim
+.DS_Store
+*.*.bak
+*.o
+output/*
+.*.*.swp
+.*.swp
